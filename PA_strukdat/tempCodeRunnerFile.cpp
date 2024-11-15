@@ -1,0 +1,1 @@
+newnode->next = nullptr;
